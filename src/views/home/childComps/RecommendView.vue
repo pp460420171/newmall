@@ -27,12 +27,12 @@ export default {
   width: 100%;
   text-align: center;
   font-size: 14px;
-
   padding: 15px,0,30px;
   border-bottom: 8px solid #eee;
 }
 .recommend-item {
   flex:1;
+  margin-bottom: 20px;
 
 }
 .recommend-item img {
